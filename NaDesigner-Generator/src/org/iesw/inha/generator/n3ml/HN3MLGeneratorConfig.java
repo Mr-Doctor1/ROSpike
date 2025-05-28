@@ -19,3 +19,4 @@ public class HN3MLGeneratorConfig {
     public static final int H_N3ML_NM_Adaptive_LIF_MODEL = 4;
     
 }
+
