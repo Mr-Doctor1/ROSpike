@@ -76,3 +76,4 @@ public final class ImExComponentToolbarAction implements ActionListener {
         dialog.setVisible(true);
     }
 }
+
