@@ -79,3 +79,4 @@ public final class SetIoTToolbarAction implements ActionListener {
         dialog.setVisible(true);
     }
 }
+
