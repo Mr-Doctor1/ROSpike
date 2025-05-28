@@ -1,6 +1,8 @@
 # ROSpike
 Neuromorphic Architecture based Component Designer in ROS2 Environment (Core Sourcecode)
 
+![그림4](https://github.com/user-attachments/assets/24d5bb8c-e953-4231-8d5b-2976e605cd5e)
+
 ## JDK
 
 Java 1.8
