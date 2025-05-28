@@ -1,5 +1,5 @@
 package org.iesw.inha.ai.snn.n3ml;
-
+ 
 public class HN3MLSimulationIOConfig {
     
     private double timeStep;
