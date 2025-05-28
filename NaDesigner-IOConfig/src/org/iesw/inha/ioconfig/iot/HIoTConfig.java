@@ -144,3 +144,4 @@ public class HIoTConfig extends HSNNIOConfig{
         this.board = board;
     }
 }
+
