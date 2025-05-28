@@ -28,3 +28,4 @@ public final class SetHardwareToolbarAction implements ActionListener {
     public void actionPerformed(ActionEvent e) {
     }
 }
+
