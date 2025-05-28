@@ -1,5 +1,5 @@
 # ROSpike
-Neuromorphic Architecture based Component Designer (Core Sourcecode)
+Neuromorphic Architecture based Component Designer in ROS2 Environment (Core Sourcecode)
 
 ## JDK
 
