@@ -305,3 +305,4 @@ public class ANNComponentPanelVisual extends JPanel implements DocumentListener 
     }
 
 }
+
