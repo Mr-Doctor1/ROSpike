@@ -1332,3 +1332,4 @@ public class ArtificialNeuralNetworkDialog extends javax.swing.JDialog {
 }
 
 
+
