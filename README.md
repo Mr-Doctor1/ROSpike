@@ -1,4 +1,4 @@
-# NA-Designer-Core
+# ROSpike
 Neuromorphic Architecture based Component Designer (Core Sourcecode)
 
 ## JDK
